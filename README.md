@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Gabriel</h1>
 <h3 align="center">Apaixonada por Análise e Ciência de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Power BI, Python e IA**
+- 🌱 Atualmente estou aprendendo **Power BI, SQL, Python e IA**
 
 - 💬 Pergunte-me sobre **Sql**
 
